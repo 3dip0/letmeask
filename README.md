@@ -26,3 +26,6 @@ Estado em React
     - Estado é uma informação mantida pelo componente do react, sempre que o valor de um componente mudar durante a execução do app, é o estado do componente.
 
 Firebase - Back-end com funcionalidades prontas
+
+Node Sass - 
+    - yarn add node-sass@^5.0.0
